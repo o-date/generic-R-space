@@ -1,2 +1,1 @@
 libgsl-dev
-libpoppler-cpp
